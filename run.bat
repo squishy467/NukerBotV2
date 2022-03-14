@@ -1,5 +1,5 @@
 @echo off
-title Presser Nuker by 7teen
+title Presser Nuker by SQUISHY
 :top
 cls
 node .
