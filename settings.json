@@ -1,0 +1,7 @@
+{
+    "prefix":"-", // you can change the prefix to wtv u want
+    "DisableEveryone": true,
+    "ID": "", // enter your user ID
+    "token": "", // enter your bot token here
+    "founder": "SQUISHY"
+}
